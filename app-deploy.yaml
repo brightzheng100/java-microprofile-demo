@@ -46,6 +46,7 @@ metadata:
     image.opencontainers.org/title: cp4app
     stack.appsody.dev/version: 0.2.19
   name: cp4app
+  namespace: java-microprofile-demo
 spec:
   applicationImage: dev.local/cp4app
   createKnativeService: false
