@@ -1,2 +1,2 @@
-project-name: cp4app
+project-name: java-microprofile-demo
 stack: kabanero/java-microprofile:0.2

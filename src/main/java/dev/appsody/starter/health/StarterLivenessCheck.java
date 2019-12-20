@@ -12,7 +12,7 @@ public class StarterLivenessCheck implements HealthCheck {
 
     private boolean isAlive() {
         // perform health checks here
-
+        System.out.println("isAlive is called");
         return true;
     }
 	
